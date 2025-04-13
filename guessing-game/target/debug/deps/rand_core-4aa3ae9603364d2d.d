@@ -1,0 +1,9 @@
+/Users/gustavonunespereira/Github/solana-rust-journey/guessing-game/target/debug/deps/librand_core-4aa3ae9603364d2d.rmeta: /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/Users/gustavonunespereira/Github/solana-rust-journey/guessing-game/target/debug/deps/rand_core-4aa3ae9603364d2d.d: /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs:
+/Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs:
+/Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs:
+/Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs:
+/Users/gustavonunespereira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs:
